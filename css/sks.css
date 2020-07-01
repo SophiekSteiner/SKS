@@ -12,6 +12,13 @@ span{
 	color: black;
 }
 
-p img{
+span img{
 	max-width: 100px;
+}
+
+header{
+	font-size: 60px;
+}
+header img{
+	max-width: 50%;
 }
